@@ -1,1 +1,6 @@
-![Screenshot 2024-08-23 173914](https://github.com/user-attachments/assets/59ba55be-68a7-4116-a184-d37bb4b88b0b)
+<p align="center">
+  <img src="https://github.com/Eyimofe28/Images/blob/main/Screenshot%202024-08-23%20173914.png?raw=true" width="200" height="350" />
+  <img src="https://github.com/Eyimofe28/Images/blob/main/Screenshot%202024-08-23%20173953.png?raw=true" width="200" height="350" />
+  <img src="https://github.com/Eyimofe28/Images/blob/main/Screenshot%202024-08-23%20174019.png?raw=true" width="200" height="350" />
+</p>
+
